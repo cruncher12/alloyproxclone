@@ -2,6 +2,6 @@
     "port": "8080",
     "ssl": false,
     "prefix": "/web/",
-    "localAddresses": [],
-    "blockedHostnames": []
+    "localAddresses": ["176.181.172.85"],
+    "blockedHostnames": ["poki.com"]
 }
